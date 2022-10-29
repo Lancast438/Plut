@@ -1,6 +1,26 @@
 #EXTM3U
 --------------------------------------------  PELICULAS  **VIP**-------------------------------------------------
                     
+#EXTINF:-1 group-title="Peliculas y Series" status="online",Action Movies
+https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas y Series" status="online",Comedy Movies
+https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas y Series" status="online",Shows
+https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas y Series" status="online",MyTime movie network
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas y Series" status="online",Rakuten Top Free Spain
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas y Series" status="online",Rakuten TV Shows Spain
+https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas y Series" status="online",Comedy Movies 2
+https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/featuredImage.jpg" group-title="Peliculas y Series", Cine
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
@@ -118,6 +138,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/featuredImage.jpg" group-title="Cultural", Historia
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 
+#EXTINF:-1 group-title="Cultural" status="Online",The Pet Collective
+https://the-pet-collective-international-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
@@ -158,6 +180,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f680008
 
 --------------------------------------------  HOGAR Y ESTILO  **VIP**-------------------------------------------------
 
+#EXTINF:-1 group-title="Hogar y Estilo" status="online",Rakuten Spotlight
+https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/featuredImage.jpg" group-title="Hogar y Estilo", Minuto para Ganar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
@@ -210,6 +234,9 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://assetsapi.unreel.me/images/fit/80/45/https%3A%2F%2Fmedia.unreel.me%2Flive%2Fwhite%2Fsports-news.png" group-title="Deportes", Sports News
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf221fad5eeee0f5a40941c/chunklist_w493884323.m3u8
 
+#EXTINF:-1 group-title="Deportes" status="online",EDGEsport
+https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
+
 
 
 ---------------------------------------- ENTRETENIMIENTO  **VIP**----------------------------------------------
@@ -226,19 +253,19 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f23102d5e239d0007
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ebac65911406400078b8993/featuredImage.jpg" group-title="Entretenimiento", People are Awesome
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac65911406400078b8993/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://assetsapi.unreel.me/images/fit/80/45/https%3A%2F%2Fmedia.unreel.me%2Fprod%2Frecoiltv%2Flogo%2F50b6aeda-9f06-4ea6-9015-76e9ced1ebb2" group-title="Entretenimiento", Recoil TV
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
-
-
-
-
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://assetsapi.unreel.me/images/fit/80/45/https%3A%2F%2Fmedia.unreel.me%2Fprod%2Frecoiltv%2Flogo%2F50b6aeda-9f06-4ea6-9015-76e9ced1ebb2" group-title="Entretenimiento", Recoil TV
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/chunklist_w878499050.m3u8
 
 
 --------------------------------------------  INFANTIL **VIP**-------------------------------------------------
+
+
+#EXTINF:-1 group-title="Infantil" status="online",Rakuten TV Family 
+https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://assetsapi.unreel.me/images/fit/80/45/https%3A%2F%2Fmedia.unreel.me%2Flive%2Fwhite%2Flego-toons.png" group-title="Infantil", Lego Toons
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/chunklist_w2051307227.m3u8
 
@@ -1237,65 +1264,41 @@ https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 group-title="Musicales", Music 11
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
----------------------------------------DEPURACION LISTA OFF--------------------------------------------
-
-
-#EXTINF:-1 group-title="Rakuten" status="online",Bloomberg Quicktake (1080p)
-https://bloomberg-quicktake-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",Brat TV (1080p)
-https://brat-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",Clubbing TV (720p)
+#EXTINF:-1 group-title="Rakuten" status="online",Clubbing TV music
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",Comedy Dynamics (1080p)
+
+
+
+
+
+
+
+
+
+
+---------------------------------------DEPURACION RAKUTEN--------------------------------------------
+
+
+#EXTINF:-1 group-title="Rakuten" status="online",Bloomberg Quicktake EN
+https://bloomberg-quicktake-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Rakuten" status="online",Brat TV EN
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Rakuten" status="online",Comedy Dynamics EN
 https://comedydynamics-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",Duck TV (720p)
+#EXTINF:-1 group-title="Rakuten" status="online",Duck TV EN
 https://mmm-ducktv-4-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",FailArmy International (720p)
+#EXTINF:-1 group-title="Rakuten" status="online",FailArmy International EN
 https://failarmy-international-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",Fuel TV (1080p)
+#EXTINF:-1 group-title="Rakuten" status="online",Fuel TV EN
 https://fueltv-fueltv-10-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="Rakuten" status="online",Lone Star (1080p)
+#EXTINF:-1 group-title="Rakuten" status="online",Lone Star EN
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",MovieSphere (1080p)
+#EXTINF:-1 group-title="Rakuten" status="online",MovieSphere EN
 https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Rakuten" status="online",Insight TV (720p)
+#EXTINF:-1 group-title="Rakuten" status="online",Insight TV EN
 https://insighttv-eng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",InWonder (720p)
+#EXTINF:-1 group-title="Rakuten" status="online",InWonder EN
 https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTimemovienetworkSpain.es" status="online",MyTime movie network Spain (1080p)
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",Rakuten Action Movies Spain (720p)
-https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",Rakuten Comedy Movies Spain (720p)
-https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",Rakuten TV Family España (720p)
-https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",Rakuten Shows España (720p)
-https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",Rakuten Spotlight España (720p)
-https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",The Pet Collective Europe (720p)
-https://the-pet-collective-international-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",Rakuten Top Free Spain (720p)
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",Rakuten TV Shows Spain (720p)
-https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="Rakuten" status="online",People are Awesome (720p)
 https://jukin-peopleareawesome-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Rakuten" status="online",WeatherSpy Europe (720p)
@@ -1306,17 +1309,9 @@ https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
 https://younghollywood-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Rakuten" status="online",ESTV (1080p)
 https://estv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",EDGEsport (1080p) [Not 24/7]
-https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
-
-
-
-
-------------------------------------------LISTA 2 -----------------------------------------------------
-
-#EXTINF:-1 group-title="Rakuten" status="online",Bloomberg Quicktake (1080p)
+#EXTINF:-1 group-title="Rakuten" status="online",Bloomberg Quicktake US
 https://bloomberg-quicktake-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",Bloomberg TV US (1080p)
+#EXTINF:-1 group-title="Rakuten" status="online",Bloomberg TV US
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Rakuten" status="online",Brat TV (1080p)
 https://brat-rakuten.amagi.tv/playlist.m3u8
@@ -1402,8 +1397,6 @@ https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Rakuten" status="online",Rakuten Comedy Movies 1 (720p)
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten" status="online",Rakuten Comedy Movies 2 (720p)
-https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Rakuten" status="online",Rakuten Comedy Movies 3 (720p)
 https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Rakuten" status="online",Rakuten Comedy Movies 6 (720p)
