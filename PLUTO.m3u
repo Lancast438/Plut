@@ -385,27 +385,27 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/featuredImage.jpg" group-title="Musicales", MTV Animaciones
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stingray-cmusic-ca.svg" group-title="Musicales", Stingray 01
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png" group-title="Musicales", Stingray 01
 https://d16fahdoeza9ow.cloudfront.net/101/master_1920x1080_1500kbps.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stingray-cmusic-ca.svg" group-title="Musicales", Stingray 02
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png" group-title="Musicales", Stingray 02
 https://d16fahdoeza9ow.cloudfront.net/102/master_1920x1080_1500kbps.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stingray-cmusic-ca.svg" group-title="Musicales", Stingray 03
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png" group-title="Musicales", Stingray 03
 https://d16fahdoeza9ow.cloudfront.net/104/master_1920x1080_1500kbps.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stingray-cmusic-ca.svg" group-title="Musicales", Stingray 04
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png" group-title="Musicales", Stingray 04
 https://d16fahdoeza9ow.cloudfront.net/107/master_1920x1080_1500kbps.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stingray-cmusic-ca.svg" group-title="Musicales", Stingray 05
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png" group-title="Musicales", Stingray 05
 https://d16fahdoeza9ow.cloudfront.net/108/master_1920x1080_1500kbps.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stingray-cmusic-ca.svg" group-title="Musicales", Stingray 06
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png" group-title="Musicales", Stingray 06
 https://d16fahdoeza9ow.cloudfront.net/115/master_1920x1080_1500kbps.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stingray-cmusic-ca.svg" group-title="Musicales", Stingray 07
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png" group-title="Musicales", Stingray 07
 https://d16fahdoeza9ow.cloudfront.net/128/master_1920x1080_1500kbps.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stingray-cmusic-ca.svg" group-title="Musicales", Stingray 08
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png" group-title="Musicales", Stingray 08
 https://d16fahdoeza9ow.cloudfront.net/133/master_1920x1080_1500kbps.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stingray-cmusic-ca.svg" group-title="Musicales", Stingray 09
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png" group-title="Musicales", Stingray 09
 https://d16fahdoeza9ow.cloudfront.net/134/master_1920x1080_1500kbps.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stingray-cmusic-ca.svg" group-title="Musicales", Stingray 10
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png" group-title="Musicales", Stingray 10
 https://d16fahdoeza9ow.cloudfront.net/155/master_1920x1080_1500kbps.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stingray-cmusic-ca.svg" group-title="Musicales", Stingray 11
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png" group-title="Musicales", Stingray 11
 https://d16fahdoeza9ow.cloudfront.net/190/master_1920x1080_1500kbps.m3u8
 
 
