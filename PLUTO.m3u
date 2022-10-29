@@ -107,8 +107,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/
 
 --------------------------------------------  CULTURAL  **VIP**-------------------------------------------------
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/featuredImage.jpg" group-title="Cultural", Misterios Medicos
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/featuredImage.jpg" group-title="Cultural", Vida Real
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
@@ -141,34 +139,32 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc0009
 
 -------------------------------------------  CURIOSIDAD  **VIP**-------------------------------------------------
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/featuredImage.jpg" group-title="Cultural", Reality
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/featuredImage.jpg" group-title="Curiosidad", Reality
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/featuredImage.jpg" group-title="Cultural", Investiga
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/featuredImage.jpg" group-title="Curiosidad", Investiga
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/featuredImage.jpg" group-title="Cultural", Historias de Ultratumba
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/featuredImage.jpg" group-title="Curiosidad", Misterios Medicos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/featuredImage.jpg" group-title="Curiosidad", Historias de Ultratumba
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/featuredImage.jpg" group-title="Maratones", Los archivos del FBI
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/featuredImage.jpg" group-title="Curiosidad", Los archivos del FBI
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/featuredImage.jpg" group-title="Maratones", Archivos Forenses
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/featuredImage.jpg" group-title="Curiosidad", Archivos Forenses
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/featuredImage.jpg" group-title="Maratones", The New Detectives
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/featuredImage.jpg" group-title="Curiosidad", The New Detectives
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/featuredImage.jpg" group-title="Maratones", Misterios Sin Resolver
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/featuredImage.jpg" group-title="Curiosidad", Misterios Sin Resolver
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="Entretenimiento", Empeños a lo Bestia
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f23102d5e239d00074b092a/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5df41355939756000921d15b/featuredImage.jpg" group-title="Maratones", Latin Angels
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df41355939756000921d15b/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
-
-
 
 
 
@@ -273,18 +269,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://assetsapi.unreel.me/images/fit/80/45/https%3A%2F%2Fmedia.unreel.me%2Flive%2Fwhite%2Fcute-zone.png" group-title="Entretenimiento", Cute Zone
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/chunklist_w646476474.m3u8
 
-
---------------------------------------------  MUSIC  **VIP**------------------------------------------------
-
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/featuredImage.jpg" group-title="Musicales", Mtv Classic
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/featuredImage.jpg" group-title="Musicales", MTV Pranks
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/featuredImage.jpg" group-title="Musicales", MTV Animaciones
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 
 
 --------------------------------------------  INFANTIL **VIP**-------------------------------------------------
@@ -405,6 +389,17 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae00007
 
 
 
+--------------------------------------------  MUSICALES  **VIP**------------------------------------------------
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/featuredImage.jpg" group-title="Musicales", Mtv Classic
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/featuredImage.jpg" group-title="Musicales", MTV Pranks
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/featuredImage.jpg" group-title="Musicales", MTV Animaciones
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 
 
 
@@ -455,19 +450,19 @@ https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200",RealMadrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200",Teledeporte GEO
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200",Teledeporte GEO
 https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200",ETB Deportes
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200",ETB Deportes
 https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=200&height=200",Best Cable Sports Perú
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=200&height=200",Best Cable Sports Perú
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 
 
--------------------------------------------- TDT DEPORTIVOS INT -------------------------------------------------
+-------------------------------------------- TDT DEPORTES INT -------------------------------------------------
 
-#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200",Redbull TV EN
+#EXTINF:-1 group-title="Deportes Int." tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200",Redbull TV EN
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://graph.facebook.com/watchstadium/picture?width=200&height=200",Stadium USA EN
+#EXTINF:-1 group-title="Deportes Int." tvg-logo="https://graph.facebook.com/watchstadium/picture?width=200&height=200",Stadium USA EN
 https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8
 
 
@@ -1256,7 +1251,7 @@ https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 ---------------------------------------DEPURACION LISTA OFF--------------------------------------------
 
 
-#EXTM3U 
+#EXTM3U
 
 
 
