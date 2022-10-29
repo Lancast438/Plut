@@ -970,221 +970,221 @@ https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="Generalistas" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",La 1
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",La 1 OFF
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 group-title="Generalistas" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200",La 2
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200",La 2 OFF
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 group-title="Informativos" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png",24h
+#EXTINF:-1 group-title="Informativos" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png",24h OFF
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 group-title="Informativos" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200",Euronews
+#EXTINF:-1 group-title="Informativos" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200",Euronews OFF
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200",Teledeporte GEO
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200",Teledeporte GEO OFF
 https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200",ETB Deportes
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200",ETB Deportes OFF
 https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200",Aragón Deporte
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200",Aragón Deporte OFF
 https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200",Clan GEO
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200",Clan GEO OFF
 https://ztnr.rtve.es/ztnr/5466990.m3u8
-#EXTINF:-1 group-title="Eventuales" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200",Radio Nacional
+#EXTINF:-1 group-title="Eventuales" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200",Radio Nacional OFF
 https://ztnr.rtve.es/ztnr/1938076.m3u8
-#EXTINF:-1 group-title="Eventuales" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200",Radio 3
+#EXTINF:-1 group-title="Eventuales OFF" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200",Radio 3 OFF
 https://ztnr.rtve.es/ztnr/2795617.m3u8
-#EXTINF:-1 group-title="Eventuales" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200",Onda Cero
+#EXTINF:-1 group-title="Eventuales OFF" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200",Onda Cero OFF
 https://live-estudio.ondacero.es/estudio_oc-pull/video/master.m3u8
-#EXTINF:-1 group-title="Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía OFF
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur 2 Andalucía
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur 2 Andalucía OFF
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
-#EXTINF:-1 group-title="Andalucía" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200",Onda Cádiz
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200",Onda Cádiz OFF
 https://adc-hls.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Andalucía" tvg-logo="https://graph.facebook.com/telemotriltv/picture?width=200&height=200",Telemotril
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://graph.facebook.com/telemotriltv/picture?width=200&height=200",Telemotril OFF
 https://5940924978228.streamlock.net/8431/8431/playlist.m3u8
-#EXTINF:-1 group-title="Andalucía" tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200",Canal Málaga
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200",Canal Málaga OFF
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Andalucía" tvg-logo="https://graph.facebook.com/101523104600501/picture?width=200&height=200",Islatel
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://graph.facebook.com/101523104600501/picture?width=200&height=200",Islatel OFF
 https://zone.controlstreams.com:5443/LiveApp/streams/islatel.m3u8
-#EXTINF:-1 group-title="Andalucía" tvg-logo="https://graph.facebook.com/LaFabricaTV/picture?width=200&height=200",La Fábrica TV
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://graph.facebook.com/LaFabricaTV/picture?width=200&height=200",La Fábrica TV OFF
 https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8
-#EXTINF:-1 group-title="Aragón" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200",Aragón TV
+#EXTINF:-1 group-title="Aragón" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200",Aragón TV OFF
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 group-title="C. de Madrid" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=200&height=200",Webcam OndaMadrid
+#EXTINF:-1 group-title="C. de Madrid" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=200&height=200",Webcam OndaMadrid OFF
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/ondamadrid_1/index.m3u8
-#EXTINF:-1 group-title="C. de Madrid" tvg-logo="https://graph.facebook.com/1423419417957760/picture?width=200&height=200",Teleganés
+#EXTINF:-1 group-title="C. de Madrid" tvg-logo="https://graph.facebook.com/1423419417957760/picture?width=200&height=200",Teleganés OFF
 https://live.yowi.tv/f79437b2aa253f8e59f1/master.m3u8
-#EXTINF:-1 group-title="C. de Madrid" tvg-logo="https://graph.facebook.com/100146922067408/picture?width=200&height=200",GCM TV
+#EXTINF:-1 group-title="C. de Madrid" tvg-logo="https://graph.facebook.com/100146922067408/picture?width=200&height=200",GCM TV OFF
 https://cloud.streamingconnect.tv/hls/tbmadrid/tbmadrid.m3u8
-#EXTINF:-1 group-title="C. de Madrid" tvg-logo="https://graph.facebook.com/nestingtv/picture?width=200&height=200",Nesting TV
+#EXTINF:-1 group-title="C. de Madrid" tvg-logo="https://graph.facebook.com/nestingtv/picture?width=200&height=200",Nesting TV OFF
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_j5bz42qbg5s8.m3u8
-#EXTINF:-1 group-title="C. Foral de Navarra" tvg-logo="https://graph.facebook.com/xaloatb/picture?width=200&height=200",Xaloa Telebista
+#EXTINF:-1 group-title="C. Foral de Navarra" tvg-logo="https://graph.facebook.com/xaloatb/picture?width=200&height=200",Xaloa Telebista OFF
 https://streaming.mediacast.pro:9443/hls/xaloa/playlist.m3u8
-#EXTINF:-1 group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/12tv.es/picture?width=200&height=200",12TV Alicante
+#EXTINF:-1 group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/12tv.es/picture?width=200&height=200",12TV Alicante OFF
 https://cloud.streamingconnect.tv/hls/12tv/gcmin.m3u8
-#EXTINF:-1 group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/burrianateve/picture?width=200&height=200",Burriana TV
+#EXTINF:-1 group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/burrianateve/picture?width=200&height=200",Burriana TV OFF
 https://www.burrianateve.com/hls/btv.m3u8
-#EXTINF:-1 group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200",Distrito TV Valencia
+#EXTINF:-1 group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200",Distrito TV Valencia OFF
 https://live.yowi.tv/90fcb0a637f74c14e323/master.m3u8
-#EXTINF:-1 group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/Tele7Safor/picture?width=200&height=200",telesafor
-http://video.telesafor.com/hls/video.m3u8
-#EXTINF:-1 group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/teve4televisio/picture?width=200&height=200",Tevequatre TV
+#EXTINF:-1 group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/Tele7Safor/picture?width=200&height=200",telesafor OFF
+http://video.telesafor.com/hls/video.m3u8 
+#EXTINF:-1 group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/teve4televisio/picture?width=200&height=200",Tevequatre TV OFF
 https://live.yowi.tv/cd05f7e9533c73d701d0_teve4/index.m3u8
-#EXTINF:-1 group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/tvalmassora/picture?width=200&height=200",TV Almassora
+#EXTINF:-1 group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/tvalmassora/picture?width=200&height=200",TV Almassora OFF
 https://live.fullsport.es/hls/tva_src/index.m3u8
-#EXTINF:-1 group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/Punt3Television/picture?width=200&height=200",Punt 3 Vall Uixó
+#EXTINF:-1 group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/Punt3Television/picture?width=200&height=200",Punt 3 Vall Uixó OFF
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
-#EXTINF:-1 group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/cortsval/picture?width=200&height=200",Corts Valencianes
+#EXTINF:-1 group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/cortsval/picture?width=200&height=200",Corts Valencianes OFF
 https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
-#EXTINF:-1 group-title="Extremadura" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200",Canal Extremadura
+#EXTINF:-1 group-title="Extremadura" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200",Canal Extremadura OFF
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
-#EXTINF:-1 group-title="Extremadura" tvg-logo="https://graph.facebook.com/ZFtelevision/picture?width=200&height=200",Zafra TV
+#EXTINF:-1 group-title="Extremadura" tvg-logo="https://graph.facebook.com/ZFtelevision/picture?width=200&height=200",Zafra TV OFF
 https://cloud.streamingconnect.tv/hls/radiotvzafra/gcmin.m3u8
-#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200",TVG
-https://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200",TVG 2
+#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200",TVG OFF
+https://europa-crtvg.flumotion.com/playlist.m3u8 
+#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200",TVG 2 OFF
 https://amodino-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200",TVG Xabarin
+#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200",TVG Xabarin OFF
 https://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200",TVG Musigal
+#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200",TVG Musigal OFF
 https://musigal-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200",TVG Cultura
+#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200",TVG Cultura OFF
 https://cultural-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200",TVG Momentos G
+#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200",TVG Momentos G OFF
 https://momentog-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200",TVG Eventos
+#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200",TVG Eventos OFF
 https://events1-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200",TVG Eventos
+#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200",TVG Eventos OFF
 https://events2-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/televigo/picture?width=200&height=200",TeleVigo
+#EXTINF:-1 group-title="Galicia" tvg-logo="https://graph.facebook.com/televigo/picture?width=200&height=200",TeleVigo OFF
 https://cloud.streamingconnect.tv/hls/televigo/televigo.m3u8
-#EXTINF:-1 group-title="Melilla" tvg-logo="https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200",Melilla TV
+#EXTINF:-1 group-title="Melilla" tvg-logo="https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200",Melilla TV OFF
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="País Vasco" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",ETB 1
+#EXTINF:-1 group-title="País Vasco" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",ETB 1 OFF
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-#EXTINF:-1 group-title="País Vasco" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",ETB 2
+#EXTINF:-1 group-title="País Vasco" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",ETB 2 OFF
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:-1 group-title="País Vasco" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",ETB Eventos 1
+#EXTINF:-1 group-title="País Vasco" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",ETB Eventos 1 OFF
 https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
-#EXTINF:-1 group-title="País Vasco" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",ETB Eventos 2 GEO
+#EXTINF:-1 group-title="País Vasco" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",ETB Eventos 2 GEO OFF
 https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8
-#EXTINF:-1 group-title="País Vasco" tvg-logo="https://graph.facebook.com/HamaikaTb/picture?width=200&height=200",Hamaika TV
+#EXTINF:-1 group-title="País Vasco" tvg-logo="https://graph.facebook.com/HamaikaTb/picture?width=200&height=200",Hamaika TV OFF
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="País Vasco" tvg-logo="https://graph.facebook.com/dotbDurangaldekoTelebista/picture?width=200&height=200",Durangaldeko TV
+#EXTINF:-1 group-title="País Vasco" tvg-logo="https://graph.facebook.com/dotbDurangaldekoTelebista/picture?width=200&height=200",Durangaldeko TV OFF
 https://live.yowi.tv/002c3bb235962b8f1b16/master.m3u8
-#EXTINF:-1 group-title="R. de Murcia" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200",7 R. de Murcia
+#EXTINF:-1 group-title="R. de Murcia" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200",7 R. de Murcia OFF
 https://obelix.nopiensomas.com/stream/abr/first.m3u8
-#EXTINF:-1 group-title="R. de Murcia" tvg-logo="https://pbs.twimg.com/profile_images/1442865104614158343/5MprEWSZ_200x200.jpg",Popular TV Murcia
+#EXTINF:-1 group-title="R. de Murcia" tvg-logo="https://pbs.twimg.com/profile_images/1442865104614158343/5MprEWSZ_200x200.jpg",Popular TV Murcia OFF
 https://cloud.streamingconnect.tv/hls/populartvrm/populartvrm.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",EITB Basque
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",EITB Basque OFF
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200",TVG América
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200",TVG América OFF
 https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200",ATV Andorra
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200",ATV Andorra OFF
 https://videos.rtva.ad/live/rtva/playlist.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200",ATV Web Andorra
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200",ATV Web Andorra OFF
 https://videos.rtva.ad/live/web/playlist.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/cnninternational/picture?width=320&height=320",CNN Internacional
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/cnninternational/picture?width=320&height=320",CNN Internacional OFF
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg",Bloomberg Europe EN
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg",Bloomberg Europe EN OFF
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200",TV5Monde Francia FR
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200",TV5Monde Francia FR OFF
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200",Rai News 24 Italia IT
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200",Rai News 24 Italia IT OFF
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/portocanal/picture?width=200&height=200",Porto Canal Portugal PT
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/portocanal/picture?width=200&height=200",Porto Canal Portugal PT OFF
 https://streamer-b02.videos.sapo.pt/live/portocanal/master.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200",LN24 Bélgica FR
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200",LN24 Bélgica FR OFF
 https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/trthaber/picture?width=200&height=200",TRT Haber Turquía EN
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/trthaber/picture?width=200&height=200",TRT Haber Turquía EN OFF
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/trthaber/picture?width=200&height=200",TRT Haber Turquía
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/trthaber/picture?width=200&height=200",TRT Haber Turquía OFF
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200",CBS News USA EN
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200",CBS News USA EN OFF
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/cheddar/picture?width=200&height=200",Cheddar USA EN
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/cheddar/picture?width=200&height=200",Cheddar USA EN OFF
 https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Int. América" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg",Bloomberg USA EN
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg",Bloomberg USA EN OFF
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 group-title="Int. América" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg",Bloomberg USA EN
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg",Bloomberg USA EN OFF
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
-#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 Multimedios Mexico
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 Multimedios Mexico OFF
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",ADN40 Mexico
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",ADN40 Mexico OFF
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Canal Once Mexico
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Canal Once Mexico OFF
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200",Señal Colombia
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200",Señal Colombia OFF
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200",TeleSUR Venezuela
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200",TeleSUR Venezuela OFF
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/TelevenTV/picture?width=200&height=200",Televen TV Venezuela
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/TelevenTV/picture?width=200&height=200",Televen TV Venezuela OFF
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
-#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/MultimediosCR/picture?width=200&height=200",TeleDiario Costa Rica
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/MultimediosCR/picture?width=200&height=200",TeleDiario Costa Rica OFF
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200",CGTN
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200",CGTN OFF
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200",CGTN News EN
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200",CGTN News EN OFF
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200",CGTN Documentary EN
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200",CGTN Documentary EN OFF
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/aljazeera/picture?width=200&height=200",Al Jazeera Qatar EN
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/aljazeera/picture?width=200&height=200",Al Jazeera Qatar EN OFF
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/aljazeera/picture?width=200&height=200",Al Jazeera Qatar AR
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200",NHK World Japan EN
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/aljazeera/picture?width=200&height=200",Al Jazeera Qatar AR OFF
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8 
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200",NHK World Japan EN OFF
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/ntvnews24/picture?width=200&height=200",Nippon News TV Japan
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/ntvnews24/picture?width=200&height=200",Nippon News TV Japan OFF
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/AlArabiya/picture?width=200&height=200",Al Arabiya Emiratos Árabes AR
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/AlArabiya/picture?width=200&height=200",Al Arabiya Emiratos Árabes AR OFF
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/dubaionetv/picture?width=200&height=200",Dubai One Emiratos Árabes EN
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/dubaionetv/picture?width=200&height=200",Dubai One Emiratos Árabes EN OFF
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/RepublicWorld/picture?width=200&height=200",Republic World TV India EN
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/RepublicWorld/picture?width=200&height=200",Republic World TV India EN OFF
 https://weblive.republicworld.com/httppush/ottr_republic_english/master.m3u8
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/tvkchannel7/picture?width=200&height=200",TVK Camboya
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/tvkchannel7/picture?width=200&height=200",TVK Camboya OFF
 https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/master.m3u8
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/tvkchannel7/picture?width=200&height=200",TVK Camboya
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/tvkchannel7/picture?width=200&height=200",TVK Camboya OFF
 https://livefta.malimarcdn.com/tvkedge/tvk2.stream/master.m3u8
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/Canal.Macau/picture?width=200&height=200",Teledifusão de Macau PT
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/Canal.Macau/picture?width=200&height=200",Teledifusão de Macau PT OFF
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/Canal.Macau/picture?width=200&height=200",Teledifusão de Macau
-https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/Canal.Macau/picture?width=200&height=200",Teledifusão de Macau
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/Canal.Macau/picture?width=200&height=200",Teledifusão de Macau OFF
+https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8 
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://graph.facebook.com/Canal.Macau/picture?width=200&height=200",Teledifusão de Macau OFF
 https://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 group-title="Int. África" tvg-logo="https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200",RASD TV
+#EXTINF:-1 group-title="Int. África" tvg-logo="https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200",RASD TV OFF
 https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8
-#EXTINF:-1 group-title="Int. África" tvg-logo="https://graph.facebook.com/sentvtelevision/picture?width=200&height=200",SenTV Senegal
+#EXTINF:-1 group-title="Int. África" tvg-logo="https://graph.facebook.com/sentvtelevision/picture?width=200&height=200",SenTV Senegal OFF
 https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://graph.facebook.com/quicktake/picture?width=200&height=200",Bloomberg Quicktake EN
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://graph.facebook.com/quicktake/picture?width=200&height=200",Bloomberg Quicktake EN OFF
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://graph.facebook.com/FTV/picture?width=200&height=200",Fashion TV
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://graph.facebook.com/FTV/picture?width=200&height=200",Fashion TV OFF
 https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200",Activa TV España
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200",Activa TV España OFF
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200",La Urban TV España
-https://urbanrevolution.es:8443/live/TV/master.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/ProduccionesAudiovisuales.CV/picture?width=200&height=200",VIVA RTV España
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200",La Urban TV España OFF
+https://urbanrevolution.es:8443/live/TV/master.m3u8 
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/ProduccionesAudiovisuales.CV/picture?width=200&height=200",VIVA RTV España OFF
 https://app.viloud.tv/hls/channel/c0d91440f0b445407e7b7a4e414f64ca.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200",RTL 102.5 Italia IT
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200",RTL 102.5 Italia IT OFF
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/radiom2o/picture?width=200&height=200",m2o Italia IT
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/radiom2o/picture?width=200&height=200",m2o Italia IT OFF
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/RadioU/picture?width=200&height=200",RadioU TV USA EN
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/RadioU/picture?width=200&height=200",RadioU TV USA EN OFF
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200",Ibiza Global TV EN
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200",Ibiza Global TV EN OFF
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=200&height=200",Top Latino TV Perú
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=200&height=200",Top Latino TV Perú OFF
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://pbs.twimg.com/profile_images/825104000341012480/ip1tcW4n_200x200.jpg",Spirit TV USA EN
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://pbs.twimg.com/profile_images/825104000341012480/ip1tcW4n_200x200.jpg",Spirit TV USA EN OFF
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 group-title="Religiosos" tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200",EWTN España
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200",EWTN España OFF
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="Religiosos" tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200",EWTN España EN
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200",EWTN España EN OFF
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="Religiosos" tvg-logo="https://graph.facebook.com/ecclesiacope/picture?width=200&height=200",Ecclesia COPE España
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://graph.facebook.com/ecclesiacope/picture?width=200&height=200",Ecclesia COPE España OFF
 https://cope-religion-video.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Religiosos" tvg-logo="https://graph.facebook.com/TBNEspana/picture?width=200&height=200",TBN España
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://graph.facebook.com/TBNEspana/picture?width=200&height=200",TBN España OFF
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
-#EXTINF:-1 group-title="Religiosos" tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200",María Visión Mexico
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200",María Visión Mexico OFF
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-#EXTINF:-1 group-title="Religiosos" tvg-logo="https://graph.facebook.com/redevida/picture?width=200&height=200",Redevida Brasil PT
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://graph.facebook.com/redevida/picture?width=200&height=200",Redevida Brasil PT OFF
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
