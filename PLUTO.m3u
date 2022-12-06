@@ -2,19 +2,24 @@
 
 --------------------------------------------  MUNDIAL QATAR  **VIP**-------------------------------------------------
 #EXTINF:-1 group-title="Mundial Qatar" status="online",Canal 01
-https://ad20171.openhd.lol/cdn/myfeed62/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Mundial Qatar" status="online",Canal 02
-https://ztnr.rtve.es/ztnr/1712295.m3u8
+https://7vezgexevs5y69dr.cdnexpress11.net:8443/hls/efw4k296.m3u8?s=SV6PhV4ZC2xtfJWVGcwYDw&e=1670365043
+
+
 #EXTINF:-1 group-title="Mundial Qatar" status="online",Canal 03
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Mundial Qatar" status="online",Canal 04
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
-#EXTINF:-1 group-title="Mundial Qatar" status="online",Canal 05
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 group-title="Mundial Qatar" status="online",Canal 06
-https://stream.ads.ottera.tv/cl/8a3f8376-2082-46b0-998d-c3054098216e/1280x720_3000140_0_f.m3u8
-#EXTINF:-1 group-title="Mundial Qatar" status="online",Canal 07
 
+#EXTINF:-1 group-title="Mundial Qatar" status="online",Canal 02
+https://ad20171.openhd.lol/cdn/myfeed68/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Mundial Qatar" status="online",Canal 05
+https://7vezgexevs5y69dr.cdnexpress11.net:8443/hls/ud9rsutobknz1um.m3u8?s=LZHeyFJCdMqUjBZd1giqCw&e=1670365016
+#EXTINF:-1 group-title="Mundial Qatar" status="online",Canal 06
+https://7vezgexevs5y69dr.cdnexpress11.net:8443/hls/m4kcoozqga6.m3u8?s=ivsKpT-y0Ur1yQg2P9GmUQ&e=1670365000
+#EXTINF:-1 group-title="Mundial Qatar" status="online",Canal 07
+https://7vezgexevs5y69dr.cdnexpress11.net:8443/hls/efw4k296.m3u8?s=NRV_iGaiftNc1dZQ06gKAg&e=1670364827
+#EXTINF:-1 group-title="Mundial Qatar" status="online",Canal 08
+https://t3.switchcast2.com:999/hls/wsmkmlfeed65.m3u8?md5=rIUA4PDAdluNFMD83XQwjw&expires=1670350371
 
 
 
